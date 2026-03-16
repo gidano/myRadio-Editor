@@ -6,6 +6,12 @@ Az alkalmazás képes letölteni az aktuális lejátszási listát a rádió **I
 
 ---
 
+## Képernyőkép
+
+![myRadio Editor](https://github.com/gidano/myRadio-Music-Server/blob/main/myradio.music.server.jpg)
+
+---
+
 ## Fő funkciók
 
 - 📡 **Lista letöltése a rádióról** IP-cím alapján (yoRadio-ról is, a playlist.csv fájlt)  
