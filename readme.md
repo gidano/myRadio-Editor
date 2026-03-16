@@ -8,7 +8,7 @@ Az alkalmazás képes letölteni az aktuális lejátszási listát a rádió **I
 
 ## Képernyőkép
 
-![myRadio Editor](https://github.com/gidano/myRadio-Music-Server/blob/main/myradio.music.server.jpg)
+![myRadio Editor](https://github.com/gidano/myRadio-Editor/blob/main/myRadio_Editor.jpg)
 
 ---
 
