@@ -52,9 +52,5 @@ A mérete azért ekkora, mert tartalmazza a Python és Qt futtatókörnyezetet, 
 
 ---
 
-## ⬇️ Letöltés
-
-[![Download]([https://img.shields.io/badge/Download-myRadio%20Editor%20v1.0-blue?style=for-the-badge&logo=github)](https://github.com/gidano/myRadio/releases/download/1.0/myRadio_Editor_v1.0.zip](https://github.com/gidano/myRadio-Editor/releases/tag/1.0))
-
 **Direct download:**  
 [https://github.com/gidano/myRadio/releases/download/1.0/myRadio_Editor_v1.0.zip](https://github.com/gidano/myRadio-Editor/releases/tag/1.0)
