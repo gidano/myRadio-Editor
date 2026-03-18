@@ -1,5 +1,13 @@
 # myRadio Editor v1.0
 
+<p align="center">
+  <!-- 
+  -->
+  <img src="https://img.shields.io/github/downloads/gidano/myRadio/total?style=for-the-badge&cacheSeconds=60" alt="Total Downloads">
+  <img src="https://img.shields.io/github/stars/gidano/myRadio?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/repo-size/gidano/myRadio?style=for-the-badge" alt="Repo size">
+</p>
+
 A **myRadio Editor** egy kétnyelvű (HU/EN) Windows alkalmazás, amely megkönnyíti a rádió **stations.txt** állomáslistájának kezelését.
 
 Az alkalmazás képes letölteni az aktuális lejátszási listát a rádió **IP-címe alapján**, vagy betölteni egy meglévő listát a számítógépről.
